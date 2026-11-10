@@ -1,1 +1,0 @@
-import{Vt as e}from"./shared-KIoQKpzL.js";import{i as t,n,r}from"./item-D8ZV4_Vc.js";var{clientLoader:i,shouldRevalidate:a}=e();export{i as clientLoader,r as default,n as handle,t as meta,a as shouldRevalidate};

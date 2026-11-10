@@ -1,1 +1,0 @@
-import{a as e,i as t,n,r,t as i}from"./item-D8ZV4_Vc.js";export{i as clientLoader,r as default,n as handle,t as meta,e as shouldRevalidate};
