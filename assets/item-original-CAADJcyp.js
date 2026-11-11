@@ -1,1 +1,0 @@
-import{Ht as e}from"./shared-DhRv_9v8.js";import{i as t,n,r}from"./item-CJLr_N8V.js";var{clientLoader:i,shouldRevalidate:a}=e();export{i as clientLoader,r as default,n as handle,t as meta,a as shouldRevalidate};
