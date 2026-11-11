@@ -1,0 +1,1 @@
+import{Ht as e}from"./shared-BSl1MOcm.js";import{i as t,n,r}from"./item-DZWm537Y.js";var{clientLoader:i,shouldRevalidate:a}=e();export{i as clientLoader,r as default,n as handle,t as meta,a as shouldRevalidate};
